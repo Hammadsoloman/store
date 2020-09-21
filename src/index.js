@@ -18,3 +18,57 @@ ReactDOM.render(
 );
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// "repository": {
+//   "type": "git",
+//   "url": "git+https://github.com/Hammadsoloman/store.git"
+// },
+
+
+
+// https://Hammadsoloman.github.io/store/
